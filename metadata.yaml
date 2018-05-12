@@ -1,0 +1,36 @@
+_repo: The-Swamp-Doctor-s-Adventures-in-The-South-WestDescriptive-of-Incidents-and-Character_46329
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Darley, Felix Octavius Carr
+    alias: Darley, F. O. C. (Felix Octavius Carr)
+    birthdate: 1822
+    deathdate: 1888
+    gutenberg_agent_id: '7337'
+    url: http://www.gutenberg.org/2009/agents/7337
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Robb, John S.
+    deathdate: 1856
+    gutenberg_agent_id: '43725'
+    url: http://www.gutenberg.org/2009/agents/43725
+description: ''
+gutenberg_issued: '2014-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46329'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Southwest, Old -- Social life and customs'
+title: "The Swamp Doctor's Adventures in The South-West\r\nContaining the Whole of\
+  \ The Louisiana Swamp Doctor; Streaks of Squatter Life; and Far-Western Scenes;\
+  \ In a Series of Forty-Two Humorous Southern and Western Sketches, Descriptive of\
+  \ Incidents and Character"
+url: http://www.gutenberg.org/ebooks/46329
